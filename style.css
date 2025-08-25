@@ -1,0 +1,45 @@
+h1 {
+    color:green;
+    text-align: center;
+    background-color: rgb(74, 165, 74);
+    font-size: 3em;
+    font-style:italic ;   
+    line-height: 2em;
+}    
+
+h3 {
+    color: green;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h4 {
+    color: green;
+}
+
+body {
+    background-color: burlywood;
+    
+}
+
+footer {
+   color:rgb(207, 110, 110) ;
+}
+
+header {color:green;
+    text-align: center;
+    background-color: rgb(74, 165, 74);
+    line-height: 1.5em;
+}
+
+#LivingStatus {
+    font-weight: bold;
+    color: darkblue;
+    font-style: italic;
+}
+
+#SchoolInfo {
+    color: rgb(86, 86, 53);
+}
